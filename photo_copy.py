@@ -3,7 +3,7 @@
 #           PC. Will write a history file back to the memory card to avoid
 #           copying the same files again.
 #
-# Author:   Clayton Tang, 12/26/2016
+# Author:   Clayton Tang, 05/18/2019
 
 import sys
 import getopt
